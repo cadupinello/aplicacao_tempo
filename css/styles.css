@@ -40,7 +40,7 @@ body {
   border: none;
   flex: 1;
   border-radius: 4px;
-  caret-color: #004e4e;
+  caret-color: #013333;
 }
 
 .form input:focus {
